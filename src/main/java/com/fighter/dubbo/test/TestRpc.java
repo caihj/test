@@ -1,3 +1,6 @@
+package com.fighter.dubbo.test;
+
+
 import com.berbon.user.facade.AccOptFacade;
 import com.pay1pay.framework.core.exception.BusinessRuntimeException;
 import com.sztx.se.rpc.dubbo.consumer.DubboConsumerFactory;
